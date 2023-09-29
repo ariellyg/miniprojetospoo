@@ -30,13 +30,13 @@ class Carro:
 
     def dirigir(self, distancia):
         if self.passageiros > 0 and self.tanque > 0:
-            consumo = distancia
-            if consumo <= self.tanque:
-                self.tanque -= consumo
+            uso_combustivel = distancia
+            if uso_combustivel <= self.tanque:
+                self.tanque -= uso_combustivel
                 self.quilometragem += distancia
                 return True
             else:
-                self.quilometragem+= self.tanque
+                self.quilometragem += self.tanque
                 self.tanque = 0
                 return False
         return False
