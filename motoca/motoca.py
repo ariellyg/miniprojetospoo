@@ -18,7 +18,7 @@ class Motoca:
         return self.potencia
 
     def subir(self, pessoa: Pessoa):
-        if self.pessoas is None :
+        if self.pessoas is None:
             self.pessoas = pessoa
             return True
         else:
@@ -41,18 +41,21 @@ class Motoca:
 
     def dirigir(self, tempo: int):
         if self.pessoas is not None and self.minutos >= tempo:
-            if self.pessoas.getIdade <= 10:
-                dirigiu = tempo
+            if self.pessoas.getIdade() <= 10:
+               pilotou = tempo
             else:
-                dirigiu = 0
-                self.minutos -= tempo
-            return dirigiu
+                pilotou = 0
+            self.minutos -= pilotou
+            return pilotou
+        elif self.pessoas is not None and self.minutos > 0:
+            pilotou = self.minutos
+            self.minutos = 0
+            return pilotou
         else:
-            return 0
+            return False
     def buzinar(self):
         if self.pessoas is not None:
-            buzina = 'p'
-            for i in range(self.potencia):
-                buzina += 'e'
-                buzina += 'm'
-                return buzina
+            buzina = 'p' + 'e' * self.potencia + 'm'
+        else:
+            return 'não pode buzinar'
+

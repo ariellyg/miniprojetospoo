@@ -1,6 +1,6 @@
 import unittest
 
-from src.motoca import Motoca
+from motoca import Motoca
 from src.pessoa import Pessoa
 
 
