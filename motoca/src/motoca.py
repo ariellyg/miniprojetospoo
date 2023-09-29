@@ -1,4 +1,4 @@
-from src.pessoa import Pessoa
+from .src.pessoa import Pessoa
 
 
 class Motoca:
