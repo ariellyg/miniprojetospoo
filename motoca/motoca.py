@@ -54,8 +54,14 @@ class Motoca:
         else:
             return False
     def buzinar(self):
-        if self.pessoas is not None:
-            buzina = 'p' + 'e' * self.potencia + 'm'
+        if self.pessoas:
+            potencia = ''
+            i = 1
+            while i <= self.potencia:
+                potencia += 'e'
+                i += 1
+            buzina = 'P' + potencia +'m'
+            return buzina
         else:
-            return 'não pode buzinar'
+           return ''
 
