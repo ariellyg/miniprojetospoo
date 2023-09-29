@@ -38,13 +38,13 @@ class Carro:
             else:
                 self.quilometragem+= self.tanque
                 self.tanque = 0
-                return 'voce esta sem combustivel'
+                return False
+        return False
     def abastecer(self, quantidade):
-        if self.tanque + quantidade < 100:
-            self.tanque += quantidade
-            return 'quantidade nao chegou ao limite'
-        if self.tanque + quantidade == 100:
-            self.tanque += quantidade
-            return 'valor max atingido'
-        else:
-            return quantidade-100
+        if quantidade > 0:
+            if self.tanque + quantidade <= 100:
+               self.tanque += quantidade
+            else:
+                self.tanque = 100
+            return True
+        return False
