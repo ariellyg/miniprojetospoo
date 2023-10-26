@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6758acc5-b86e-41b4-a92d-93cb69d0dd96" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2W3Mol45MkEYO3m2txzxw3k4H3P" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Python tests for test_carro.TestCarro" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="miniprojetospoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/carro-ecologico" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_carro.TestCarro&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_conta.TestConta" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="miniprojetospoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conta-bancaria-simples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conta.TestConta&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_conta.TestConta.test_criarConta" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="miniprojetospoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/conta-bancaria-simples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_conta.TestConta.test_criarConta&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_motoca.TesteMotoca" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="miniprojetospoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/motoca" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_motoca.TesteMotoca&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_motoca.TesteMotoca.testBuzinar" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="miniprojetospoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/motoca" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_motoca.TesteMotoca.testBuzinar&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_conta.TestConta" />
+        <item itemvalue="Python tests.Python tests for test_carro.TestCarro" />
+        <item itemvalue="Python tests.Python tests for test_motoca.TesteMotoca" />
+        <item itemvalue="Python tests.Python tests for test_conta.TestConta.test_criarConta" />
+        <item itemvalue="Python tests.Python tests for test_motoca.TesteMotoca.testBuzinar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6758acc5-b86e-41b4-a92d-93cb69d0dd96" name="Changes" comment="" />
+      <created>1695956997709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695956997709</updated>
+    </task>
+    <task id="LOCAL-00001" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695958025648</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695958025648</updated>
+    </task>
+    <task id="LOCAL-00002" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695958141696</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695958141696</updated>
+    </task>
+    <task id="LOCAL-00003" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695959204318</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695959204318</updated>
+    </task>
+    <task id="LOCAL-00004" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695959560105</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695959560105</updated>
+    </task>
+    <task id="LOCAL-00005" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695959925951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1695959925951</updated>
+    </task>
+    <task id="LOCAL-00006" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695959957609</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695959957609</updated>
+    </task>
+    <task id="LOCAL-00007" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695960361780</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695960361780</updated>
+    </task>
+    <task id="LOCAL-00008" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695960386033</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695960386033</updated>
+    </task>
+    <task id="LOCAL-00009" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1695965237832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1695965237832</updated>
+    </task>
+    <task id="LOCAL-00010" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1696006321403</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696006321403</updated>
+    </task>
+    <task id="LOCAL-00011" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1696011396875</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696011396875</updated>
+    </task>
+    <task id="LOCAL-00012" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1696019224478</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696019224478</updated>
+    </task>
+    <task id="LOCAL-00013" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1696029133092</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1696029133092</updated>
+    </task>
+    <task id="LOCAL-00014" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1698117808082</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1698117808082</updated>
+    </task>
+    <task id="LOCAL-00015" summary="atualizacao">
+      <option name="closed" value="true" />
+      <created>1698177273474</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1698177273474</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atualizacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacao" />
+  </component>
+</project>
