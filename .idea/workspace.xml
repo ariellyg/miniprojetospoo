@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6758acc5-b86e-41b4-a92d-93cb69d0dd96" name="Changes" comment="" />
+    <list default="true" id="6758acc5-b86e-41b4-a92d-93cb69d0dd96" name="Changes" comment="atualizacao peso3">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/peso3/agenda/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peso3/agenda/documentacao/agenda.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peso3/agenda/runner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peso3/agenda/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peso3/circulo/documentacao/circulo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/peso3/gestao-universitaria/documentacao/gestao_universitaria.pdf" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/peso3/agenda" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -28,7 +37,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_carro.TestCarro">
     <configuration name="Python tests for test_carro.TestCarro" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="miniprojetospoo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,8 +110,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_conta.TestConta" />
         <item itemvalue="Python tests.Python tests for test_carro.TestCarro" />
+        <item itemvalue="Python tests.Python tests for test_conta.TestConta" />
         <item itemvalue="Python tests.Python tests for test_motoca.TesteMotoca" />
         <item itemvalue="Python tests.Python tests for test_conta.TestConta.test_criarConta" />
         <item itemvalue="Python tests.Python tests for test_motoca.TesteMotoca.testBuzinar" />
@@ -238,7 +247,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698177273474</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="atualizacao peso3">
+      <option name="closed" value="true" />
+      <created>1698427518276</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1698427518292</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -254,6 +271,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="atualizacao" />
-    <option name="LAST_COMMIT_MESSAGE" value="atualizacao" />
+    <MESSAGE value="atualizacao peso3" />
+    <option name="LAST_COMMIT_MESSAGE" value="atualizacao peso3" />
   </component>
 </project>
